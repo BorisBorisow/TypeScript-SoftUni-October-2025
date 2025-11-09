@@ -1,5 +1,11 @@
 # TypesScript introduction
 
+**`Learning Video - Intro to TypeScript with Yourdan Nedelchev`**
+
+- https://www.youtube.com/watch?v=i-xHQCGa2xY
+- https://www.typescriptlang.org/docs/handbook/intro.html // handbook typescript
+- https://github.com/Yoan-Nedelchev/typescript-october-2025
+
 ### 1. Install TypeScript and VS Code
 
 - npm install -g typescript // latest stable build
