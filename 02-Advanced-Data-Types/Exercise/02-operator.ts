@@ -17,3 +17,4 @@ console.log(operator("string", "Index", 1));
 console.log(operator(["Just", "Two"], "Length", 5));
 console.log(operator("short string1", "Length", 5));
 console.log(operator("7", "Add", 3));
+export {};

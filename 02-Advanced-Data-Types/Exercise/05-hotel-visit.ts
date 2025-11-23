@@ -62,3 +62,4 @@ visitFloor({ dine() {}, number: 2, hallway: "A", pass: "Guest" });
 // visitFloor({ sleep() {}, number: 1, hallway: "A" });
 // visitFloor({ sleep() {}, number: 2, hallway: "A" });
 // visitFloor({ sleep() {}, number: 2, hallway: "C" });
+export {};

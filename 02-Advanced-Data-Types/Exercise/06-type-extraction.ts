@@ -31,3 +31,4 @@ function createCombinedFunction(names: NamesType, location: LocationType) {
 let combinedFunction = createCombinedFunction(names, location1);
 let combinedPerson = Object.assign({}, names, location1);
 combinedFunction(combinedPerson);
+export {};

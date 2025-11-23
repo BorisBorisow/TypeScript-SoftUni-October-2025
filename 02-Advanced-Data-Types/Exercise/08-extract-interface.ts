@@ -48,3 +48,5 @@ let task2: Task & { moreProps: number; evenMore: string } = {
 
 assignTask(user, task1);
 assignTask(user, task2);
+
+export {};

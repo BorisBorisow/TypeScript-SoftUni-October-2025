@@ -116,3 +116,5 @@ type TreeNode = {
   left?: TreeNode;
   right?: TreeNode;
 };
+
+export {};

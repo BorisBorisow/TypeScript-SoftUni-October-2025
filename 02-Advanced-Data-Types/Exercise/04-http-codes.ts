@@ -24,3 +24,4 @@ httpCodes({ code: 400, text: "Bad Request", printChars: 4 });
 httpCodes({ code: 404, text: "Not Found" });
 httpCodes({ code: 404, text: "Not Found", printChars: 3 });
 httpCodes({ code: 500, text: "Internal Server Error", printChars: 1 });
+export {};

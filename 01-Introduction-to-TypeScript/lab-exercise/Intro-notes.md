@@ -1,5 +1,7 @@
 # TypesScript introduction
 
+`ctrl + shift + v`
+
 **`Learning Video - Intro to TypeScript with Yourdan Nedelchev`**
 
 - https://www.youtube.com/watch?v=i-xHQCGa2xY

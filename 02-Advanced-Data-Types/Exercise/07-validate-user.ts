@@ -87,3 +87,5 @@ console.log(
     email: "something@abv.bg",
   })
 );
+
+export {};

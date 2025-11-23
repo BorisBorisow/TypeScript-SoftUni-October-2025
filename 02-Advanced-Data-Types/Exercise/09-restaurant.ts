@@ -112,3 +112,4 @@ console.log(order.getFinalPrice());
 console.log(order.getOrderStatus());
 order.updateOrderStatus();
 console.log(order.getOrderStatus());
+export {};
