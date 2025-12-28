@@ -1,9 +1,11 @@
 {
-"compilerOptions" : {
-"target": "esnext", // ECMAScript target version
-"module": "esnext", // module code generation
-"sourceMap": true, // Generates corresponding .map file
-"strict": true, // strict type-checking options
-"outDir": "out", // redirect output to the directory.
-}
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "target": "esnext", // ECMAScript target version
+    "module": "esnext", // module code generation
+    "sourceMap": true, // Generates corresponding .map file
+    "strict": true, // str ict type-checking options
+    "outDir": "out" // redirect output to the directory.
+  }
 }

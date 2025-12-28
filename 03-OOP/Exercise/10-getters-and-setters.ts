@@ -22,3 +22,4 @@ class User {
 const user = new User("Martin");
 user.username = "johnDoe";
 console.log(user.username);
+export {};

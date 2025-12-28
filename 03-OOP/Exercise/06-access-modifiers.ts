@@ -24,3 +24,5 @@ console.log(emp.showSalary());
 console.log(emp.name);
 // console.log(emp.salary);
 // console.log(emp.position);
+
+export {};

@@ -19,3 +19,5 @@ class Person {
 
 const person = new Person("John", "Doe", 30);
 console.log(person.introduce());
+
+export {};
